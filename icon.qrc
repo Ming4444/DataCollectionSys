@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/income.png</file>
+        <file>icon/logo.png</file>
+        <file>icon/profit.png</file>
+        <file>icon/home.png</file>
+        <file>icon/home1.png</file>
+        <file>icon/goods.png</file>
+        <file>icon/stock.png</file>
+    </qresource>
+</RCC>
